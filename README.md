@@ -5,5 +5,15 @@ Dieses Projekt integriert die Warenkorbfunktion von BigCommerce mit der QR-Code-
 
 English
 
-I was part of the team that built this project, which was among the top 8 in the US.
-This project integrates BigCommerce's shopping cart functionality with QR code-based payment processing. Built using NestJS, TypeScript, Axios, Node JS, TypeORM, Docker, Postman, JSON), the system handles cart creation, item removal, and ordering. The system connects to merchant services and processes product variants, quantities, and prices in real time. QR code payment is supported via custom API endpoints. The project also demonstrates interaction with external payment connectors and data parsing using Lodash and TypeORM.
+🛒 QR Code Payment Integration with BigCommerce
+
+I was part of the team that developed this project, which ranked among the top 8 in the U.S. in a global tech competition.
+This system integrates BigCommerce's shopping cart with QR code-based payment processing, enabling seamless and secure e-commerce transactions.
+Tech Stack: NestJS · TypeScript · Node.js · Axios · TypeORM · Docker · Postman · JSON · Lodash
+Main Features:
+Cart creation, item removal, and order processing
+Real-time handling of product variants, quantities, and prices
+Integration with merchant services and external payment connectors
+QR code payment supported via custom API endpoints
+Data parsing and transformation with Lodash and TypeORM
+This project demonstrates full-stack development, API integration, and scalable payment architecture.
