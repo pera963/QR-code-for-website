@@ -11,9 +11,9 @@ I was part of the team that developed this project, which ranked among the top 8
 This system integrates BigCommerce's shopping cart with QR code-based payment processing, enabling seamless and secure e-commerce transactions.
 Tech Stack: NestJS · TypeScript · Node.js · Axios · TypeORM · Docker · Postman · JSON · Lodash
 Main Features:
-Cart creation, item removal, and order processing
-Real-time handling of product variants, quantities, and prices
-Integration with merchant services and external payment connectors
-QR code payment supported via custom API endpoints
-Data parsing and transformation with Lodash and TypeORM
+- Cart creation, item removal, and order processing
+- Real-time handling of product variants, quantities, and prices
+- Integration with merchant services and external payment connectors
+- QR code payment supported via custom API endpoints
+- Data parsing and transformation with Lodash and TypeORM
 This project demonstrates full-stack development, API integration, and scalable payment architecture.
